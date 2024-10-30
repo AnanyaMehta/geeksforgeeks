@@ -1,4 +1,4 @@
-# geeksforgeeks
+# GeeksforGeeks
 
 Welcome to my GeeksforGeeks Problem of the Day (POTD) repository! <br>
 Here, I’ve gathered a collection of daily coding challenges from GeeksforGeeks, complete with my solutions. Whether you're aiming to sharpen your problem-solving skills or simply enjoy tackling coding puzzles, you've come to the right place!
